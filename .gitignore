@@ -11,3 +11,7 @@ node_modules/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Executables / Binaries
+*.exe
+cloudflared.exe
