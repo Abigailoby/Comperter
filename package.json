@@ -1,0 +1,19 @@
+{
+  "name": "comperter",
+  "version": "1.0.0",
+  "description": "Aplikasi Web Konverter Gambar ke JPEG dan Kompresor Ukuran File Cerdas",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "jpeg-converter",
+    "image-compressor",
+    "cpns-photo",
+    "client-side",
+    "html5-canvas"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
